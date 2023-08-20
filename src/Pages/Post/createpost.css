@@ -1,0 +1,4 @@
+.blog-createpost-titlearea{
+    display: flex;
+    justify-content: space-between;
+}
